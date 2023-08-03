@@ -1,0 +1,26 @@
+.like:hover{
+    cursor:pointer;
+}
+
+.like{
+    width: 50px;
+    border-radius: 15px;
+    font-size: 15px;
+    background-color:  #3c5a99;
+    color: white;
+    margin-top:7px;
+    margin-left:10px;
+}
+
+.postsMain{
+    background-color: rgba(255, 255, 255, 0.64);;
+    margin: 30px;
+    height: 70px;
+    border-radius: 20px;
+    margin-right: 50px;
+}
+
+.postDesc{
+    margin-top:10px;
+    margin-left:20px;
+}

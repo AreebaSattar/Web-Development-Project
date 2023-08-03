@@ -1,0 +1,10 @@
+.HomePage{
+    position: relative;
+    display: grid;
+    grid-template-columns: 18rem 40rem 22rem;
+    gap: 1rem;
+}
+
+.Profile>h3{
+    margin-left: 35px;
+}

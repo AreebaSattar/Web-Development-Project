@@ -1,0 +1,55 @@
+.cardFollower{
+    width: 100%;
+    gap: 0.5rem;
+    border-radius: 0.6rem;
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
+    background-color: rgba(255, 255, 255, 0.64);
+    border-radius: 25px;
+    margin-left: 33px;
+    height: 288px;
+    width: 245px;
+    margin-bottom: 30px;
+}
+
+.cardFollower>h4{
+    margin-left: 30px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.yourfollower{
+    display: flex;
+    justify-content: space-between;
+}
+
+.yourfollower>div{
+    display: flex;
+    gap: 3px;
+}
+
+.followerName{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 28px;
+}
+
+.followName>span:nth-of-type(1){
+    font-weight: bold;
+}
+
+.smolButton{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: #3c5a99;
+    border: none;
+    padding: none;
+    border-radius: 27px;
+    font-size: 12px;
+    margin-right: 14px;
+}
